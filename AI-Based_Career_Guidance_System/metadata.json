@@ -1,0 +1,8 @@
+{
+  "name": "CareerAI Pro",
+  "description": "Enterprise-grade AI Career Guidance, Assessment, and Roadmap Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "users": [
+    {
+      "id": "student-1",
+      "email": "student@careerai.pro",
+      "password": "password123",
+      "name": "Alex Rivera",
+      "role": "student",
+      "bio": "Computer Science sophomore passionate about machine learning and cloud development.",
+      "academicBackground": "B.S. in Computer Science (GPA: 3.8/4.0)",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "SQL",
+        "Data structures"
+      ],
+      "interests": [
+        "Artificial Intelligence",
+        "Web Development",
+        "Cloud Systems"
+      ],
+      "careerGoals": "Build scalable AI applications and lead an engineering team.",
+      "profileCompleted": true,
+      "mbti": "INTJ",
+      "bigFive": {
+        "openness": 85,
+        "conscientiousness": 90,
+        "extraversion": 40,
+        "agreeableness": 70,
+        "neuroticism": 30
+      },
+      "aptitudeScore": 88
+    },
+    {
+      "id": "counselor-1",
+      "email": "counselor@careerai.pro",
+      "password": "password123",
+      "name": "Dr. Evelyn Carter",
+      "role": "counselor",
+      "bio": "Senior Career Psychologist with 12+ years of guiding students in tech, healthcare, and finance.",
+      "academicBackground": "Ph.D. in Counseling Psychology, Stanford University",
+      "skills": [
+        "Mentorship",
+        "Behavioral Therapy",
+        "Resume Consulting",
+        "SaaS Careers"
+      ],
+      "interests": [],
+      "careerGoals": "",
+      "profileCompleted": true
+    },
+    {
+      "id": "admin-1",
+      "email": "admin@careerai.pro",
+      "password": "password123",
+      "name": "Admin Supervisor",
+      "role": "admin",
+      "bio": "Chief System Administrator of CareerAI Pro.",
+      "skills": [],
+      "interests": [],
+      "careerGoals": "",
+      "profileCompleted": true
+    },
+    {
+      "id": "user-1787170180380",
+      "email": "anshar22khan@gmail.com",
+      "password": "Anshar@1",
+      "name": "zz",
+      "role": "student",
+      "profileCompleted": true,
+      "skills": [
+        "JavaScript",
+        "Node.js"
+      ],
+      "interests": [
+        "Artificial Intelligence"
+      ],
+      "careerGoals": "",
+      "mbti": "ESTJ",
+      "bigFive": {
+        "openness": 80,
+        "conscientiousness": 80,
+        "extraversion": 60,
+        "agreeableness": 100,
+        "neuroticism": 100
+      },
+      "aptitudeScore": 0
+    },
+    {
+      "id": "user-1787170741262",
+      "email": "anshar2khan@gmail.com",
+      "password": "Anshar@1",
+      "name": "zz",
+      "role": "counselor",
+      "profileCompleted": false,
+      "skills": [],
+      "interests": [],
+      "careerGoals": ""
+    },
+    {
+      "id": "user-1790092802139",
+      "email": "anshu2khan@gmail.com",
+      "password": "$2b$10$o1TQ4J4TRevRfSN3NjjFEeQaRFscCkRfL5iUF/BidD7afHda2A87i",
+      "name": "neljf",
+      "role": "student",
+      "profileCompleted": false,
+      "skills": [],
+      "interests": [],
+      "careerGoals": "",
+      "isVerified": true,
+      "registeredAt": "2026-09-22T16:00:02.411Z",
+      "accountStatus": "active"
+    },
+    {
+      "id": "user-1790093149212",
+      "email": "anwar2khan@gmail.com",
+      "password": "$2b$10$ZHcnLSXwCHMzVQrXtgZkzuyC.s4fL.LVxx9u225xzhYgtUR7DFe2u",
+      "name": "Anshar Khan",
+      "role": "student",
+      "profileCompleted": false,
+      "skills": [],
+      "interests": [],
+      "careerGoals": "",
+      "isVerified": true,
+      "registeredAt": "2026-09-22T16:05:49.469Z",
+      "accountStatus": "active"
+    }
+  ],
+  "counselorSessions": [
+    {
+      "id": "session-1",
+      "studentId": "student-1",
+      "studentName": "Alex Rivera",
+      "counselorId": "counselor-1",
+      "counselorName": "Dr. Evelyn Carter",
+      "dateTime": "2026-08-25T14:00:00.000Z",
+      "status": "scheduled",
+      "notes": "Initial strategy meeting to map out AI Research assistantships."
+    }
+  ],
+  "chatHistory": {},
+  "customCareers": [],
+  "systemLog": [
+    {
+      "timestamp": "2026-08-19T20:08:02.046Z",
+      "message": "Platform database initialized with seed data"
+    },
+    {
+      "timestamp": "2026-08-19T20:08:45.820Z",
+      "message": "User logged in: Alex Rivera"
+    },
+    {
+      "timestamp": "2026-08-19T20:09:40.380Z",
+      "message": "New user signed up: zz (student)"
+    },
+    {
+      "timestamp": "2026-08-19T20:10:41.009Z",
+      "message": "Student zz finished Career Assessment (MBTI: ESTJ, Aptitude: 0%)"
+    },
+    {
+      "timestamp": "2026-08-19T20:10:43.598Z",
+      "message": "Student zz finished Career Assessment (MBTI: ESTJ, Aptitude: 0%)"
+    },
+    {
+      "timestamp": "2026-08-19T20:10:55.757Z",
+      "message": "Student zz finished Career Assessment (MBTI: ESTJ, Aptitude: 0%)"
+    },
+    {
+      "timestamp": "2026-08-19T20:10:56.467Z",
+      "message": "Student zz finished Career Assessment (MBTI: ESTJ, Aptitude: 0%)"
+    },
+    {
+      "timestamp": "2026-08-19T20:10:57.372Z",
+      "message": "Student zz finished Career Assessment (MBTI: ESTJ, Aptitude: 0%)"
+    },
+    {
+      "timestamp": "2026-08-19T20:10:57.596Z",
+      "message": "Student zz finished Career Assessment (MBTI: ESTJ, Aptitude: 0%)"
+    },
+    {
+      "timestamp": "2026-08-19T20:10:58.260Z",
+      "message": "Student zz finished Career Assessment (MBTI: ESTJ, Aptitude: 0%)"
+    },
+    {
+      "timestamp": "2026-08-19T20:10:59.241Z",
+      "message": "Student zz finished Career Assessment (MBTI: ESTJ, Aptitude: 0%)"
+    },
+    {
+      "timestamp": "2026-08-19T20:11:00.184Z",
+      "message": "Student zz finished Career Assessment (MBTI: ESTJ, Aptitude: 0%)"
+    },
+    {
+      "timestamp": "2026-08-19T20:11:01.127Z",
+      "message": "Student zz finished Career Assessment (MBTI: ESTJ, Aptitude: 0%)"
+    },
+    {
+      "timestamp": "2026-08-19T20:11:01.585Z",
+      "message": "Student zz finished Career Assessment (MBTI: ESTJ, Aptitude: 0%)"
+    },
+    {
+      "timestamp": "2026-08-19T20:11:01.790Z",
+      "message": "Student zz finished Career Assessment (MBTI: ESTJ, Aptitude: 0%)"
+    },
+    {
+      "timestamp": "2026-08-19T20:11:02.000Z",
+      "message": "Student zz finished Career Assessment (MBTI: ESTJ, Aptitude: 0%)"
+    },
+    {
+      "timestamp": "2026-08-19T20:11:02.219Z",
+      "message": "Student zz finished Career Assessment (MBTI: ESTJ, Aptitude: 0%)"
+    },
+    {
+      "timestamp": "2026-08-19T20:11:02.444Z",
+      "message": "Student zz finished Career Assessment (MBTI: ESTJ, Aptitude: 0%)"
+    },
+    {
+      "timestamp": "2026-08-19T20:11:03.604Z",
+      "message": "Student zz finished Career Assessment (MBTI: ESTJ, Aptitude: 0%)"
+    },
+    {
+      "timestamp": "2026-08-19T20:11:05.495Z",
+      "message": "Student zz finished Career Assessment (MBTI: ESTJ, Aptitude: 0%)"
+    },
+    {
+      "timestamp": "2026-08-19T20:14:21.675Z",
+      "message": "User logged in: Admin Supervisor"
+    },
+    {
+      "timestamp": "2026-08-19T20:19:01.262Z",
+      "message": "New user signed up: zz (counselor)"
+    },
+    {
+      "timestamp": "2026-09-22T15:54:48.747Z",
+      "message": "User logged in: Alex Rivera"
+    },
+    {
+      "timestamp": "2026-09-22T16:00:02.411Z",
+      "message": "New user self-registered: neljf (student)"
+    },
+    {
+      "timestamp": "2026-09-22T16:00:18.423Z",
+      "message": "Account verified successfully: neljf"
+    },
+    {
+      "timestamp": "2026-09-22T16:02:06.746Z",
+      "message": "User logged in: neljf"
+    },
+    {
+      "timestamp": "2026-09-22T16:05:49.469Z",
+      "message": "New user self-registered: Anshar Khan (student)"
+    },
+    {
+      "timestamp": "2026-09-22T16:05:59.227Z",
+      "message": "Account verified successfully: Anshar Khan"
+    }
+  ]
+}
